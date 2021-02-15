@@ -1,4 +1,4 @@
-# Yming Chu's Home Page
+# Home Page of Yiming Chu
 
 This is my home page published at:
 https://yimingdeveloper.github.io/MyHomePage/
