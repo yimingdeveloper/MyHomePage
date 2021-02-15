@@ -23,3 +23,7 @@ Make a simple web page about myself. With implementation of basic html, css and 
 
 We don't need to do to much for this static web page.
 Just use "npm install" to install the dependencies defined in the package.json file.
+
+## A short public and narrated video demonstrating the application
+
+https://www.youtube.com/watch?v=HDcCz_Q9WrY&feature=youtu.be
