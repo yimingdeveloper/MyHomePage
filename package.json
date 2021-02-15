@@ -1,0 +1,28 @@
+{
+  "name": "yiming.neu",
+  "version": "1.0.0",
+  "description": "first project of CS5610",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yimingdeveloper/MyHomePage.git"
+  },
+  "author": "yiming chu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yimingdeveloper/MyHomePage/issues"
+  },
+  "homepage": "https://github.com/yimingdeveloper/MyHomePage#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {}
+}
