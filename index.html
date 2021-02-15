@@ -23,6 +23,7 @@
     ></script>
     <link rel="stylesheet" href="./css/global.css" />
     <link rel="stylesheet" href="./css/style.css" />
+    <script src="../js/main.js"></script>
     <link
       href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
       rel="stylesheet"
@@ -30,7 +31,7 @@
     <title>Yiming Chu</title>
   </head>
 
-  <body>
+  <body onload="getnow();">
     <nav class="navbar navbar-expand-lg">
       <div class="container">
         <a class="navbar-brand text-white" href="#"
@@ -56,6 +57,7 @@
             </li>
           </ul>
         </div>
+        <span class="navbar-brand text-white" id="time">Time</span>
       </div>
     </nav>
 

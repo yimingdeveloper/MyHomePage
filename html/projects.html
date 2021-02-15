@@ -23,6 +23,7 @@
     ></script>
     <link rel="stylesheet" href="../css/global.css" />
     <link rel="stylesheet" href="../css/style.css" />
+    <script src="../js/main.js"></script>
     <link
       href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
       rel="stylesheet"
@@ -30,7 +31,7 @@
     <title>Yiming Chu</title>
   </head>
 
-  <body>
+  <body onload="getnow();">
     <nav class="navbar navbar-expand-lg">
       <div class="container">
         <a class="navbar-brand text-white" href="#"
@@ -56,6 +57,7 @@
             </li>
           </ul>
         </div>
+        <span class="navbar-brand text-white" id="time">Time</span>
       </div>
     </nav>
 
@@ -121,28 +123,6 @@
                 </h5>
                 <p class="card-text">
                   This project is for practice by using git and github.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-lg-4 mb-5">
-            <div class="card">
-              <img
-                class="card-img-top"
-                src="../assets/jetpack.jpg"
-                alt="Databinding in Jetpack"
-              />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a
-                    href="https://github.com/yimingdeveloper/databinding-samples"
-                    >Databinding Practice</a
-                  >
-                </h5>
-                <p class="card-text">
-                  Official demo for best practice for databinding, including
-                  one-way and 2-way databinding, which is basic for MVVM.
                 </p>
               </div>
             </div>
