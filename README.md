@@ -14,3 +14,7 @@ https://johnguerra.co/classes/webDevelopment_spring_2021/
 ## Project Objective
 
 Make a simple web page about myself. With implementation of basic html, css and javascript.
+
+## Screenshot
+
+![image](https://github.com/yimingdeveloper/MyHomePage/blob/main/assets/home_screenshot.jpg)
