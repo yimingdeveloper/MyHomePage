@@ -18,3 +18,8 @@ Make a simple web page about myself. With implementation of basic html, css and 
 ## Screenshot
 
 ![image](https://github.com/yimingdeveloper/MyHomePage/blob/main/assets/home_screenshot.jpg)
+
+## Build Instructions
+
+We don't need to do to much for this static web page.
+Just use "npm install" to install the dependencies defined in the package.json file.
